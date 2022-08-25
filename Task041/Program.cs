@@ -10,14 +10,15 @@ Console.WriteLine("input numbers M: ");
 int numberM = Convert.ToInt32(Console.ReadLine());
 int[] arrayM = new int[numberM];
 
-
     for (int i = 0; i < numberM; i++)
     {
         arrayM[i] = Convert.ToInt32(Console.ReadLine());
     }
 
-
 int countNegativeNumber = 0;
+
+
+
 
  for (int i = 0; i < numberM; i++)
  {

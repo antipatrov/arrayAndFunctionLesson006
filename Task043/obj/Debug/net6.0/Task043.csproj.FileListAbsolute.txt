@@ -1,0 +1,15 @@
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\obj\Debug\net6.0\Task043.csproj.AssemblyReference.cache
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\obj\Debug\net6.0\Task043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\obj\Debug\net6.0\Task043.AssemblyInfoInputs.cache
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\obj\Debug\net6.0\Task043.AssemblyInfo.cs
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\obj\Debug\net6.0\Task043.csproj.CoreCompileInputs.cache
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\bin\Debug\net6.0\Task043.exe
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\bin\Debug\net6.0\Task043.deps.json
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\bin\Debug\net6.0\Task043.runtimeconfig.json
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\bin\Debug\net6.0\Task043.dll
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\bin\Debug\net6.0\Task043.pdb
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\obj\Debug\net6.0\Task043.dll
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\obj\Debug\net6.0\refint\Task043.dll
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\obj\Debug\net6.0\Task043.pdb
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\obj\Debug\net6.0\Task043.genruntimeconfig.cache
+C:\Users\dnsuser\Desktop\GeekBrains\C#\seminars\Массивы и функции\Урок006_Двумерные_массивы\Task043\obj\Debug\net6.0\ref\Task043.dll
