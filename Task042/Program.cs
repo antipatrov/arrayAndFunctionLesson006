@@ -9,24 +9,26 @@ Console.WriteLine("Введите десятичное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 string str = number.ToString();
 
+ int[] arrDecimal = new int[str.Length];
 
-int[] arrDecimal = new int[str.Length];
-{
 for (int i = 0; i < str.Length; i++)
 {
     
     arrDecimal[i] = Convert.ToInt32(str[i].ToString());
-    
- 
-}
-}
-Console.WriteLine(string.Join("," ,arrDecimal));
+    }
+    //Console.WriteLine(string.Join("," ,arrDecimal));
 
 int size = arrDecimal.Length*4;
+
+
+
+
+
 int[]binArray = new int[size];
+void ConversionToBinarySistem(int number)
+{
 
-
-    int remaine = 0;
+ int remaine = 0;
    for (int i = 0; i < size; i++)
    {
 
@@ -34,7 +36,8 @@ int[]binArray = new int[size];
     binArray[i] = remaine;
     number = number/2;
     }
-    Console.WriteLine(string.Join("," ,binArray));
+
+    
     int[] array = new int[size];
     for (int i = 0; i < size; i++)
     {
@@ -45,7 +48,8 @@ int[]binArray = new int[size];
     } 
      
     Console.WriteLine(string.Join("," ,array));
-  
+}
+  ConversionToBinarySistem(number);
 
 
 
